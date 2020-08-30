@@ -17,7 +17,7 @@ ul {
 #logo-holder {position:relative;}
 #logo-holder .pic,
 #logo-holder .text {transition: opacity 0.5s ease-in-out;}
-#logo-holder .text {position:absolute; top:0; left:0; opacity:0; font-size: 13px;}
+#logo-holder .text {position:absolute; top:0; left:0; opacity:0; font-size: 15px;}
 
 #logo-holder:hover .pic {opacity:0;}
 #logo-holder:hover .text {opacity:1;}
