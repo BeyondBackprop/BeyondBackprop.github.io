@@ -14,6 +14,11 @@ ul {
   margin-bottom: 25px;
 }
 
+li {
+  margin: 15px 0;
+}
+
+
 #logo-holder {position:relative;}
 #logo-holder .pic,
 #logo-holder .text {transition: opacity 0.5s ease-in-out;}
