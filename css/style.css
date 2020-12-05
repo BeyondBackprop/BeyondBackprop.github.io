@@ -18,6 +18,10 @@ li {
   margin: 15px 0;
 }
 
+img.map {
+  width: 100%;
+}
+
 
 #logo-holder {position:relative;}
 #logo-holder .pic,
