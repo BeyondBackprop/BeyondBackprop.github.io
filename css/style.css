@@ -23,6 +23,11 @@ img.map {
 }
 
 
+td {
+  padding-bottom: 1em;
+}
+
+
 #logo-holder {position:relative;}
 #logo-holder .pic,
 #logo-holder .text {transition: opacity 0.5s ease-in-out;}
